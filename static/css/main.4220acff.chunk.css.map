@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACE,wBACF,CAEA,gBACE,wBACF","file":"main.4220acff.chunk.css","sourcesContent":[".PeopleTable {\n  border-collapse: collapse;\n}\n\n.PeopleTable td {\n  border: 3px solid lightgrey;\n}\n"]}
